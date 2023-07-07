@@ -4,6 +4,8 @@
 
 - <b>Active Directory Home Lab </b>
   - [Domain Controller & Client Machine Configuration](https://github.com/emeka789/ActiveDirectoryHL/tree/main)
+- <b>Azure Sentinal SIEM </b>
+  - [Azure Sentinel: Log Creation, Analysis, & Visualization Using a SIEM](https://github.com/emeka789/SiemLab/tree/main)
 
 <h2>📄 CyberPulse Blog</h2>
 
