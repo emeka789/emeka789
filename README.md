@@ -9,10 +9,6 @@
 - <b>Nessus Vulnerability Scanning </b>
   - [Nessus: Vulnerability Scanning and Remediation](https://github.com/emeka789/Nessus/tree/main)
 
-<h2>📄 CyberPulse Blog (Under Construction🛠️)</h2>
-
-- [The Capitol One Data Breach: A Wake-Up Call for Robust Cybersecurity Measures](https://emekacyber.azurewebsites.net/)
-- [Securing Digital Assets: The Synergy of IAM and Zero Trust](https://emekacyber.azurewebsites.net/)
 
 <h2> 🤳 Connect with me:</h2>
 
