@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
-  - [Domain Controller (Windows Server 2019) & Client Machine Configuration](https://github.com/emeka789/ActiveDirectoryHL/tree/main)
 - <b>Azure Sentinal SIEM </b>
   - [Azure: SIEM & HoneyNet Creation, Analysis, Visualization, and Remediation](https://github.com/emeka789/SiemLab/tree/main)
+- <b>Active Directory Home Lab </b>
+  - [Domain Controller (Windows Server 2019) & Client Machine Configuration](https://github.com/emeka789/ActiveDirectoryHL/tree/main)
 - <b>Nessus Vulnerability Scanning </b>
   - [Nessus: Vulnerability Scanning and Remediation](https://github.com/emeka789/Nessus/tree/main)
 
