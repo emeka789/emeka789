@@ -8,7 +8,7 @@
   - [Domain Controller (Windows Server 2019) & Client Machine Configuration](https://github.com/emeka789/ActiveDirectoryHL/tree/mai)
 - <b>Nessus Vulnerability Scanning </b>
   - [Nessus: Vulnerability Scanning and Remediation](https://github.com/emeka789/Nessus/tree/mai)
-
+- <b>Snort Intrusion Detection Lab </b>
 
 <h2> 🤳 Connect with me:</h2>
 
