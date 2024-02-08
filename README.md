@@ -7,7 +7,7 @@
 - <b>Snort Intrusion Detection Lab </b>
   
 - <b>Nessus Vulnerability Scanning </b>
-  - [Nessus: Vulnerability Scanning and Remediation](https://github.com/emeka789/Nessus/tree/mai)
+  - [Nessus: Vulnerability Scanning and Remediation](https://github.com/emeka789/Nessus/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
