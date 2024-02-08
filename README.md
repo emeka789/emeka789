@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure Sentinal SIEM </b>
+- <b>Azure Sentinal HoneyPot & SIEM Integration </b>
   - [Azure: SIEM & HoneyNet Creation, Analysis, Visualization, and Remediation](https://github.com/emeka789/SiemLab/tree/main)
-- <b>Snort Intrusion Detection Lab </b>
-  
+- <b>Snort Network Monitoring & UDP Flood </b>
+  - [Snort: Network Traffic Monitoring](https://github.com/emeka789/NetworkMonitoring/tree/main)
 - <b>Nessus Vulnerability Scanning </b>
   - [Nessus: Vulnerability Scanning and Remediation](https://github.com/emeka789/Nessus/tree/main)
 
