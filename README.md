@@ -6,8 +6,8 @@
   - [Azure: SIEM & HoneyNet Creation, Analysis, Visualization, and Remediation](https://github.com/emeka789/SiemLab/tree/main)
 - <b>Snort Network Monitoring & UDP Flood </b>
   - [Snort: Network Traffic Monitoring](https://github.com/emeka789/NetworkMonitoring/tree/main)
-- <b>Nessus Vulnerability Scanning </b>
-  - [Nessus: Vulnerability Scanning and Remediation](https://github.com/emeka789/Nessus/tree/main)
+- <b>Active Directory Corp Simulation </b>
+  - [Active Directory: Corporate Network Simulation](https://github.com/emeka789/ActiveDirectoryHL)
 
 <h2> 🤳 Connect with me:</h2>
 
